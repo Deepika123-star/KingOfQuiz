@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "602219834877",
+    "project_id": "king-of-quiz-76049",
+    "storage_bucket": "king-of-quiz-76049.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602219834877:android:93c2c3c40657e919fdfd94",
+        "android_client_info": {
+          "package_name": "com.abhiraj.kingofquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602219834877-k1h7bndc4len08aoq55nrrvt36a66kn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhiraj.kingofquiz",
+            "certificate_hash": "deabadeca4c5ed881877265d410781be50457746"
+          }
+        },
+        {
+          "client_id": "602219834877-pq0352ug63mc0oa52d2mmt1m0kl0s07l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD7rn_X-mhV7BJ1HiZPj7NSlEB2BbG4Yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602219834877-pq0352ug63mc0oa52d2mmt1m0kl0s07l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

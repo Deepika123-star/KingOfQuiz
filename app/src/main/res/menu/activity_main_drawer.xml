@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_baseline_help_24"
+            android:title="Help" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_baseline_phonelink_setup_24"
+            android:title="Setting" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_video_marketing"
+            android:title="How to play" />
+    </group>
+
+    <item android:title="Share App">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_baseline_share_24"
+                android:title="Share" />
+            <item
+                android:visible="false"
+                android:id="@+id/nav_dark_mode"
+                android:icon="@android:drawable/ic_menu_day"
+                android:title="Toggle Theme" />
+        </menu>
+    </item>
+
+</menu>

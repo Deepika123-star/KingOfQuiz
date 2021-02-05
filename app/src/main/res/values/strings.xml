@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">KingOfQuiz</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="no_data_found">No data found</string>
+    <string name="tagline">King of Quiz</string>
+
+    <string name="time_for_this_test_is_now_over">Time for this test is now over</string>
+    <string name="submit">Submit</string>
+    <string name="attempted">Attempted</string>
+    <string name="unattempted">UnAttempted</string>
+    <string name="total">Total</string>
+    <string name="mark_attempted">Mark Attempted</string>
+    <string name="resume_test">RESUME TEST</string>
+    <string name="aa_hindi_">Hindi</string>
+    <string name="a">2</string>
+    <string name="skip">Skip</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Inccorect</string>
+    <string name="skipped">Skipped</string>
+    <string name="ok">OK</string>
+    <string name="down">Down</string>
+    <string name="up">Up</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_full_screen">ca-app-pub-3940256099942544/1033173712</string>
+
+</resources>
